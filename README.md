@@ -26,9 +26,9 @@ alongwith the implementation of some amazing projects.
 
 ### WEEK 1
 
-- Python 3 installation : [Download and Install](https://www.python.org/downloads/)
-- Working with Jupyter: [Download and Install](https://jupyter.org/install)
-- Basics of Python:
+1. Python 3 installation : [Download and Install](https://www.python.org/downloads/)
+2. Working with Jupyter: [Download and Install](https://jupyter.org/install)
+3. Basics of Python:
 
     a. Python Fundamentals
     
@@ -54,12 +54,12 @@ alongwith the implementation of some amazing projects.
       
       - Dictionary
 
-#### Task : Submitting problems on Hackerrank
+#### Task : Submitting problems on Hackerrank and submit links to your solutions
 
 
 ### WEEK 2
 
-- Quickstart to Python Libraries :
+ Quickstart to Python Libraries :
  
  1. NumPy:
  
@@ -84,43 +84,38 @@ alongwith the implementation of some amazing projects.
      c.Bar graphs  
      
      d.Normal Distribution
+     
+ ### Task : Numpy,Pandas Exercise practices
  
- - Introduction to Machine learning :
+ 
+  ### WEEK 3
+  ### Introduction to Machine learning :
   https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0
- - Introduction to Supervised and Unsupervised Learning :
+  ### Introduction to Supervised and Unsupervised Learning :
   https://medium.com/@saahil1292/machine-learning-101-supervised-vs-unsupervised-41312b504053
- - Linear regression : 
+  ### Linear regression : 
   https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86
   
-   a. Gradient Descent 
- 
-   b. Update rule for squarred error
- 
- #### Task : [Air Quality Prediction](https://www.kaggle.com/chiranjeevbit/air-quality-prediction)
-  
-  
- ### WEEK 3
- 
-- Multivariate Regression : 
- 
-     1. Maximum likelihood estimation 
-     
-     2. K-fold cross validation 
-     
-- Introduction to Logistic Regression :
-  https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
-  
-        
- #### Task : [Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
- 
- ### WEEK 4
- 
- - K-Nearest Neighbours : 
- https://medium.com/datadriveninvestor/k-nearest-neighbors-knn-7b4bd0128da7
-    
-   a. Introduction 
+   Gradient Descent , Update rule for squarred error
    
-   b. Implementation using MNIST Handwritten Digits 
+  ### Multiveriate Regression : 
+  
+  Boston Housing Prices  , Maximum likelihood estimation , K-fold cross validation 
+  
+   ### Task : Air Quality Prediction
+  ### Multiveriate Regression : 
+  ### Introduction to Logistic Regression :
+  https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+  Likelihood estimation and loss  , Gradient Descent Update Rule 
+        https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+        
+    
+ 
+ ## WEEK 4
+ 
+ ### K-Nearest Neighbours : 
+ https://medium.com/datadriveninvestor/k-nearest-neighbors-knn-7b4bd0128da7
+ Introduction , Implementation using MNIST Handwritten Digits 
  
  ### Natural language Pre-processing :
  Getting started with Natural lenguages  , Tokenization Stopword Removal, NLTK-Regex Tokenizer , Stemming & Lemmatization , Bag of Words: Constricting Vocab , Vectroization , Unigram , Bigrams as Features , TF-IDF Normalisation 
