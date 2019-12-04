@@ -59,13 +59,14 @@ Tuples, Strings, Dictionary
  ### K-Nearest Neighbours : 
  https://medium.com/datadriveninvestor/k-nearest-neighbors-knn-7b4bd0128da7
  Introduction , Implementation using MNIST Handwritten Digits 
+ 
+ ### Natural language Pre-processing :
+ Getting started with Natural lenguages
     
   ### Task : Diabetes Classification
     
-  ## END PROJECT : 
-  FACE RECOGNITION : Install OpenCV , working with images , Face detection using HaarCascades , Working with Video stream 
-                     form Webcam  , Building Face Classifier , Testing Of Classifier 
-  
+ ### WEEK 5
+ 
  
   
   
