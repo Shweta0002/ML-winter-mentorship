@@ -1,35 +1,89 @@
-# ML-winter-mentorship
-This Repository contains all the material needed for MACHINE LEARNING Mentorship Program.
+# Machine Learning Mentorship
 
-# Prerequisites:-
-some prior knowledge of any programming language ,basic algebra and YES ,THE MOST IMPORTANT SOME INTEREST .
+This is the repository that contains all the material/code required to get started with the mentorship programme. 
+
+
+## Prerequisites:-
+
+1. Language: We'll be using Python3 throughout this course. So familiarise yourself with the language. Also learn to install packages using pip.
+
+2. Libraries:
+
+    a. [NumPy](https://numpy.org/): Used for matrix computations.
+    
+    b. [Pandas](https://pandas.pydata.org/): Used for data analysis.
+
+4. Tools:
+
+    a. [Jupyter Notebook](https://jupyter.org/install)
+    
+    b. git: You'll be using GitHub for all your code/assignment submission, so learn the basics of git: pull, push, add, commit.
+
  
-# Course Structure
-The whole mentorship program is of 4 weeks.Till the end of the program mentee will learn Python and Machine learning
-with implementation of some Projects
+## Course Structure
+The whole mentorship program is of 4 weeks. By the end of the program mentee would have learned Python and Machine learning
+alongwith the implementation of some amazing projects.
 
-## WEEK 1
-### Python 3 installation :
-### Working with Jupyter:
-### Basics of Python:-
-Python Fundamentals,
-Variables,
-Data Types,
-Operators,
-Conditions, Loops,
-Python Functions,
-Python Data Structures :
-Lists, Sets
-Tuples, Strings, Dictionary
+### WEEK 1
 
-### TASK : Submitting problems on Hackerrank
+1. Python 3 installation : [Download and Install](https://www.python.org/downloads/)
+2. Working with Jupyter: [Download and Install](https://jupyter.org/install)
+3. Basics of Python:
+
+    a. Python Fundamentals
+    
+    b. Variables
+    
+    c. Data Types
+    
+    d. Operators
+    
+    e. Conditions and Loops,
+    
+    f. Python Functions,
+    
+    g. Python Data Structures :
+         
+      - Lists
+      
+      - Sets
+      
+      - Tuples
+      
+      - Strings
+      
+      - Dictionary
+
+#### Task : Submitting problems on Hackerrank
 
 
-## WEEK 2
+### WEEK 2
+
  Quickstart to Python Libraries :
- Numpy:NumPy basics,Random Generators , Stastical Computation , Linear algebra - matrices ,Norms of Vectors 
- Pandas :- Pandas Basics
- Matplotlib : Line plots , Scatter plots , Bar graphs , Normal Distribution
+ 
+ 1. NumPy:
+ 
+     a. NumPy basics
+     
+     b. Random Generators 
+     
+     c. Stastical Computation 
+     
+     d. Linear algebra - matrices 
+     
+     e. Norms of Vectors 
+     
+ 2. Pandas : Pandas Basics
+ 
+ 3. Matplotlib : 
+ 
+     a. Line plots  
+     
+     b. Scatter plots 
+     
+     c.Bar graphs  
+     
+     d.Normal Distribution
  
   ### Introduction to Machine learning :
   https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0
