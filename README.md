@@ -125,7 +125,7 @@ alongwith the implementation of some amazing projects.
  ###   Introduction to Natural Language Processing
  ###    Introduction to Neural Networks
     
-### Task :  
+### Task :  Dominant Color Extraction:
  
  
   
