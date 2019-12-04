@@ -108,9 +108,8 @@ alongwith the implementation of some amazing projects.
    3. K-fold cross validation 
   
    ### Task : Air Quality Prediction
-  
-  
- 
+   
+   
  ## WEEK 4
  
    ### Introduction to Logistic Regression :
@@ -125,10 +124,10 @@ alongwith the implementation of some amazing projects.
  https://medium.com/datadriveninvestor/k-nearest-neighbors-knn-7b4bd0128da7
   1. Introduction 
   2. Implementation using MNIST Handwritten Digits 
- 
- 
+  
+  
  ## WEEK 5
-
+ 
  
  ### Introduction to K-Means Clustering
  1. implementing E step 
@@ -146,14 +145,12 @@ alongwith the implementation of some amazing projects.
  4. NLTK -Regex Tokenizer , Stemming and Lemmatization
  5. Bag of words-constructing Vocab
  
- 
  ###    Introduction to Neural Networks
  https://www.youtube.com/watch?v=aircAruvnKk&t=189s
  1. How artificial neuron learn?
  2. Gradient Descent Update 
  3. Perceptron implementaion
  4. Backpropagation , Backpropogation Calculus
- 
  
     
 ### Task :  House Price Prediction
