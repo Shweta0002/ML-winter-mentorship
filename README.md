@@ -92,9 +92,9 @@ alongwith the implementation of some amazing projects.
  - Linear regression : 
   https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86
   
- - Gradient Descent 
+   a. Gradient Descent 
  
- - Update rule for squarred error
+   b. Update rule for squarred error
  
  #### Task : [Air Quality Prediction](https://www.kaggle.com/chiranjeevbit/air-quality-prediction)
   
@@ -117,7 +117,10 @@ alongwith the implementation of some amazing projects.
  
  - K-Nearest Neighbours : 
  https://medium.com/datadriveninvestor/k-nearest-neighbors-knn-7b4bd0128da7
- Introduction , Implementation using MNIST Handwritten Digits 
+    
+   a. Introduction 
+   
+   b. Implementation using MNIST Handwritten Digits 
  
  ### Natural language Pre-processing :
  Getting started with Natural lenguages  , Tokenization Stopword Removal, NLTK-Regex Tokenizer , Stemming & Lemmatization , Bag of Words: Constricting Vocab , Vectroization , Unigram , Bigrams as Features , TF-IDF Normalisation 
