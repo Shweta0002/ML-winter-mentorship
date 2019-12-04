@@ -103,31 +103,31 @@ alongwith the implementation of some amazing projects.
   Boston Housing Prices  , Maximum likelihood estimation , K-fold cross validation 
   
    ### Task : Air Quality Prediction
-   
-   
-  ### Multiveriate Regression : 
-  ### Introduction to Logistic Regression :
+  
+  
+ 
+ ## WEEK 4
+ 
+   ### Introduction to Logistic Regression :
   https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
   Likelihood estimation and loss  , Gradient Descent Update Rule 
         https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
         
-   ### Task : Credit Card Fraud Detection
+   ### Task : Diabetes Classification
 
  
- ## WEEK 4
- 
+ ## WEEK 5
  ### K-Nearest Neighbours : 
  https://medium.com/datadriveninvestor/k-nearest-neighbors-knn-7b4bd0128da7
  Introduction , Implementation using MNIST Handwritten Digits 
  
- ### Natural language Pre-processing :
- Getting started with Natural lenguages  , Tokenization Stopword Removal, NLTK-Regex Tokenizer , Stemming & Lemmatization , Bag of Words: Constricting Vocab , Vectroization , Unigram , Bigrams as Features , TF-IDF Normalisation 
+ 
+ ### Introduction to K-Means Clustering
+ ###   Introduction to Natural Language Processing
+ ###    Introduction to Neural Networks
     
-  ### Task :
-  * Diabetes Classification
-  * NLTK implentation
+
     
- ### WEEK 5
  
  
   
