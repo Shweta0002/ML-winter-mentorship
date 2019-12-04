@@ -103,13 +103,16 @@ alongwith the implementation of some amazing projects.
   Boston Housing Prices  , Maximum likelihood estimation , K-fold cross validation 
   
    ### Task : Air Quality Prediction
+   
+   
   ### Multiveriate Regression : 
   ### Introduction to Logistic Regression :
   https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
   Likelihood estimation and loss  , Gradient Descent Update Rule 
         https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
         
-    
+   ### Task : Credit Card Fraud Detection
+
  
  ## WEEK 4
  
