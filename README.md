@@ -10,7 +10,7 @@ with implementation of some Projects
 
 ## WEEK 1
 ### Python 3 installation :
-### Working with jupyter:
+### Working with Jupyter:
 ### Basics of Python:-
 Python Fundamentals,
 Variables,
@@ -61,9 +61,11 @@ Tuples, Strings, Dictionary
  Introduction , Implementation using MNIST Handwritten Digits 
  
  ### Natural language Pre-processing :
- Getting started with Natural lenguages
+ Getting started with Natural lenguages  , Tokenization Stopword Removal, NLTK-Regex Tokenizer , Stemming & Lemmatization , Bag of Words: Constricting Vocab , Vectroization , Unigram , Bigrams as Features , TF-IDF Normalisation 
     
-  ### Task : Diabetes Classification
+  ### Task :
+  * Diabetes Classification
+  * NLTK implentation
     
  ### WEEK 5
  
