@@ -112,9 +112,8 @@ alongwith the implementation of some amazing projects.
   https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
   Likelihood estimation and loss  , Gradient Descent Update Rule 
         https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
-        
-   ### Task : Diabetes Classification
 
+ ### Task : Diabetes Classification
  
  ## WEEK 5
  ### K-Nearest Neighbours : 
@@ -126,8 +125,7 @@ alongwith the implementation of some amazing projects.
  ###   Introduction to Natural Language Processing
  ###    Introduction to Neural Networks
     
-
-    
+### Task :  
  
  
   
