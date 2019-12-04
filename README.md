@@ -12,6 +12,8 @@ This is the repository that contains all the material/code required to get start
     a. [NumPy](https://numpy.org/): Used for matrix computations.
     
     b. [Pandas](https://pandas.pydata.org/): Used for data analysis.
+    
+    C. [Matplotlib](https://matplotlib.org/): Used for data visualization
 
 4. Tools:
 
@@ -96,11 +98,14 @@ alongwith the implementation of some amazing projects.
   ### Linear regression : 
   https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86
   
-   Gradient Descent , Update rule for squarred error
+  * 1. Gradient Descent 
+  * 2. Update rule for squared error
    
   ### Multiveriate Regression : 
   
-  Boston Housing Prices  , Maximum likelihood estimation , K-fold cross validation 
+  * 1. Boston Housing Prices  
+  * 2. Maximum likelihood estimation 
+  * 3. K-fold cross validation 
   
    ### Task : Air Quality Prediction
   
@@ -110,22 +115,48 @@ alongwith the implementation of some amazing projects.
  
    ### Introduction to Logistic Regression :
   https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
-  Likelihood estimation and loss  , Gradient Descent Update Rule 
+ * 1. Likelihood estimation and loss 
+ * 2. Gradient Descent Update Rule 
         https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
 
  ### Task : Diabetes Classification
  
- ## WEEK 5
- ### K-Nearest Neighbours : 
+  ### K-Nearest Neighbours : 
  https://medium.com/datadriveninvestor/k-nearest-neighbors-knn-7b4bd0128da7
- Introduction , Implementation using MNIST Handwritten Digits 
+ * 1. Introduction 
+ * 2. Implementation using MNIST Handwritten Digits 
  
+ 
+ ## WEEK 5
+
  
  ### Introduction to K-Means Clustering
+ * 1. implementing E step 
+ * 2. implementing M step
+ * 3. Understanding Loss , Coordinate Ascent 
+ * 4. k-mean ++ Making Better Initialisation
+ 
+ ### Task : Extracting Dominant Colours
+ 
+ 
  ###   Introduction to Natural Language Processing
+ * 1. NLTK - Getting Started with Natural language 
+ * 2. NLTK-working with Brown Corpus
+ * 3. NLTK- Tokenization , Stopword Removal
+ * 4. NLTK -Regex Tokenizer , Stemming and Lemmatization
+ * 5. Bag of words-constructing Vocab
+ 
+ 
  ###    Introduction to Neural Networks
+ https://www.youtube.com/watch?v=aircAruvnKk&t=189s
+* 1. How artificial neuron learn?
+* 2. Gradient Descent Update 
+* 3. Perceptron implementaion
+* 4. Backpropagation , Backpropogation Calculus
+ 
+ 
     
-### Task :  Dominant Color Extraction:
+### Task :  House Price Prediction
  
  
   
