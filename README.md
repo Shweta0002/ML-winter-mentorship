@@ -108,7 +108,7 @@ Don't be afraid to ask any questions (however irrelevant you think it may be). T
    
  ## WEEK 4
  
-   ### I[Introduction to Logistic Regression](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc)
+   ### [Introduction to Logistic Regression](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc)
   1. Likelihood estimation and loss 
   2. [Gradient Descent Update Rule](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc)
   
