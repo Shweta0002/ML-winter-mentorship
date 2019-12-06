@@ -8,11 +8,7 @@ This is the repository that contains all the material/code required to get start
 1. Language: We'll be using Python3 throughout this course. So familiarise yourself with the language. Also learn to install packages using pip.
 2. Python 3 installation : [Download and Install](https://www.python.org/downloads/)
 3. Working with Jupyter: [Download and Install](https://jupyter.org/install)
-4. Tools:
-
-    a. [Jupyter Notebook](https://jupyter.org/install)
-    
-    b. git: You'll be using GitHub for all your code/assignment submission, so learn the basics of git: pull, push, add, commit.
+4. git: You'll be using GitHub for all your code/assignment submission, so learn the basics of git: pull, push, add, commit.
 
  
 ## Course Structure
