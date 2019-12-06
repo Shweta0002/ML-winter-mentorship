@@ -88,7 +88,7 @@ Don't be afraid to ask any questions (however irrelevant you think it may be). T
  
   ### WEEK 3
   ### [Introduction to Machine learning](https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0)
-  ### [Introduction to Supervised and Unsupervised Learning](https://medium.com/@saahil1292/machine-learning-101-supervised-vs-unsupervised-41312b504053
+  ### [Introduction to Supervised and Unsupervised Learning](https://medium.com/@saahil1292/machine-learning-101-supervised-vs-unsupervised-41312b504053)
   ### [Linear regression](https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86)
   
    1. Gradient Descent 
