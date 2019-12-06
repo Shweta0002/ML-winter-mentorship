@@ -28,4 +28,4 @@ Basics of Python:
 NOTES :  [here](http://tdc-www.harvard.edu/Python.pdf)
 
 
-### TASK : will be updated soon
+### TASK : Submitting problems on Hackerrank and CodeChef.
