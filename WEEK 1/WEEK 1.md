@@ -19,10 +19,11 @@ Basics of Python:
 	 1. Lists  and tuples : [here](https://www.youtube.com/watch?v=RVXIBZvg-W8&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M&index=27)
    2. List Manipulation : [here](https://www.youtube.com/watch?v=LUoKlnK5wcc&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M&index=28)
    3. Multidimensional list : [here](https://www.youtube.com/watch?v=UsCQXe1OHZk&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M&index=3)
- 	
-	4. Classes : [here](https://www.youtube.com/watch?v=Beu5_JZEWsI&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M&index=21)
+ 	4. [Strings](https://www.kaggle.com/colinmorris/strings-and-dictionaries)
+	5. Classes : [here](https://www.youtube.com/watch?v=Beu5_JZEWsI&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M&index=21)
 		
-	5. Dictionary : [here](https://www.youtube.com/watch?v=YNRc6c0wUA8&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M&index=33)
+	6. Dictionary : [here](https://www.youtube.com/watch?v=YNRc6c0wUA8&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M&index=33)
+
 
 
 ## NOTES :  [here](http://tdc-www.harvard.edu/Python.pdf)
