@@ -1,4 +1,4 @@
-### WEEK 1 : Introduction to python
+# WEEK 1 : Introduction to python
 Video lecture series followed : [here](http://www.youtube.com/watch?v=oVp1vr...)
 
 Since , the tutorial is long enough  , I have only added links to the video lectures of required material . If you wann learn all you can go through the whole series .  	 	 	 	
@@ -25,7 +25,13 @@ Basics of Python:
 	5. Dictionary : [here](https://www.youtube.com/watch?v=YNRc6c0wUA8&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M&index=33)
 
 
-NOTES :  [here](http://tdc-www.harvard.edu/Python.pdf)
+## NOTES :  [here](http://tdc-www.harvard.edu/Python.pdf)
 
 
-### TASK : Submitting problems on Hackerrank and CodeChef.
+## TASKS: 
+1. [Python If Else](https://www.hackerrank.com/challenges/py-if-else/problem)
+2. [Loop](https://www.hackerrank.com/challenges/python-loops/problem)
+3. [Function](https://www.hackerrank.com/challenges/write-a-function/problem)
+4. [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)
+5. [List](https://www.hackerrank.com/challenges/python-lists/problem)
+6. [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)
