@@ -6,15 +6,8 @@ This is the repository that contains all the material/code required to get start
 ## Prerequisites:-
 
 1. Language: We'll be using Python3 throughout this course. So familiarise yourself with the language. Also learn to install packages using pip.
-
-2. Libraries:
-
-    a. [NumPy](https://numpy.org/): Used for matrix computations.
-    
-    b. [Pandas](https://pandas.pydata.org/): Used for data analysis.
-    
-    C. [Matplotlib](https://matplotlib.org/): Used for data visualization
-
+2. Python 3 installation : [Download and Install](https://www.python.org/downloads/)
+3. Working with Jupyter: [Download and Install](https://jupyter.org/install)
 4. Tools:
 
     a. [Jupyter Notebook](https://jupyter.org/install)
@@ -28,9 +21,8 @@ alongwith the implementation of some amazing projects.
 
 ### WEEK 1
 
-1. Python 3 installation : [Download and Install](https://www.python.org/downloads/)
-2. Working with Jupyter: [Download and Install](https://jupyter.org/install)
-3. Basics of Python:
+
+1. Basics of Python:
 
     a. Python Fundamentals
     
@@ -61,7 +53,14 @@ alongwith the implementation of some amazing projects.
 
 ### WEEK 2
 
- Quickstart to Python Libraries :
+ Install these  Libraries:
+
+    a. [NumPy](https://numpy.org/): Used for matrix computations.
+    
+    b. [Pandas](https://pandas.pydata.org/): Used for data analysis.
+    
+    C. [Matplotlib](https://matplotlib.org/): Used for data visualization
+
  
  1. NumPy:
  
