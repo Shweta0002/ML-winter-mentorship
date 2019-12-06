@@ -138,24 +138,6 @@ alongwith the implementation of some amazing projects.
  ### Task : Extracting Dominant Colours
  
  
- ###   Introduction to Natural Language Processing
- 1. NLTK - Getting Started with Natural language 
- 2. NLTK-working with Brown Corpus
- 3. NLTK- Tokenization , Stopword Removal
- 4. NLTK -Regex Tokenizer , Stemming and Lemmatization
- 5. Bag of words-constructing Vocab
- 
- ###    Introduction to Neural Networks
- https://www.youtube.com/watch?v=aircAruvnKk&t=189s
- 1. How artificial neuron learn?
- 2. Gradient Descent Update 
- 3. Perceptron implementaion
- 4. Backpropagation , Backpropogation Calculus
- 
-    
-### Task :  House Price Prediction
- 
- 
   
   
   
