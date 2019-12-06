@@ -2,7 +2,7 @@
 ## 1. NumPy:
   * Video Lecture:
       1. [NumPy Tutorial for Beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI)
-  * [Article and Code]()
+  * [Article and Code](https://github.com/Shweta0002/ML-winter-mentorship/blob/master/WEEK%202/1_Intro%20to%20numpy.ipynb)
   
   
 
@@ -23,4 +23,4 @@
   * Video Lecture:
       1. [Pandas Tutorial for Beginners](https://www.youtube.com/watch?v=B42n3Pc-N2A)
       
-  * [Article and Code]()
+  * [Article and Code](https://github.com/Shweta0002/ML-winter-mentorship/blob/master/WEEK%202/2_Intro%20to%20pandas.ipynb)
