@@ -48,17 +48,8 @@ alongwith the implementation of some amazing projects.
 
 
 ### WEEK 2
-
- Install these  Libraries:
-
-    a. [NumPy](https://numpy.org/): Used for matrix computations.
-    
-    b. [Pandas](https://pandas.pydata.org/): Used for data analysis.
-    
-    C. [Matplotlib](https://matplotlib.org/): Used for data visualization
-
  
- 1. NumPy:
+ 1. [NumPy](https://numpy.org/):Used for matrix computations.
  
      a. NumPy basics
      
@@ -70,9 +61,10 @@ alongwith the implementation of some amazing projects.
      
      e. Norms of Vectors 
      
- 2. Pandas : Pandas Basics
+ 2. [Pandas](https://pandas.pydata.org/): Used for data analysis.
+ Pandas Basics
  
- 3. Matplotlib : 
+ 3. [Matplotlib](https://matplotlib.org/): Used for data visualization
  
      a. Line plots  
      
