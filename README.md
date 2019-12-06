@@ -56,7 +56,7 @@ alongwith the implementation of some amazing projects.
       
       - Dictionary
 
-#### Task : Submitting problems on Hackerrank and submit links to your solutions
+#### Task : Submitting problems on Hackerrank and CodeChef and submit links to your solutions
 
 
 ### WEEK 2
