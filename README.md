@@ -1,7 +1,18 @@
 # Machine Learning Mentorship
 
-This is the repository that contains all the material/code required to get started with the mentorship programme. 
+This is the repository that contains all the material/code required to get started with the mentorship programme. A few points of administration:
 
+1. The length of the mentorship is around 5 weeks.
+
+2. We assume you have some prior knowledge of programming.
+
+3. For any help with the course, you can contact your mentor. A better option would be to open an issue on this repository, so that others can see your question, and it'll prevent any replicated effort on the part of the mentor.
+
+4. All your code will be pushed to GitHub, so if you haven't already, create a GitHub account. Fork and clone this repository and create your respective folders (refer the sample folder with my name).
+
+5. Create a README.md in your folder where you can keep track of your progress over the next month. The mentors will be using the README.md as a progress tracker. (Refer the sample README.md given)
+
+Don't be afraid to ask any questions (however irrelevant you think it may be). The mentors are here to help you every step of the way.
 
 ## Prerequisites:-
 
@@ -12,8 +23,6 @@ This is the repository that contains all the material/code required to get start
 
  
 ## Course Structure
-The whole mentorship program is of 4 weeks. By the end of the program mentee would have learned Python and Machine learning
-alongwith the implementation of some amazing projects.
 
 ### WEEK 1
 
@@ -79,35 +88,42 @@ alongwith the implementation of some amazing projects.
  
   ### WEEK 3
   ### [Introduction to Machine learning](https://towardsdatascience.com/machine-learning-an-introduction-23b84d51e6d0)
-  ### [Introduction to Supervised and Unsupervised Learning](https://medium.com/@saahil1292/machine-learning-101-supervised-vs-unsupervised-41312b504053)
+  ### [Introduction to Supervised and Unsupervised Learning](https://medium.com/@saahil1292/machine-learning-101-supervised-vs-unsupervised-41312b504053
   ### [Linear regression](https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86)
   
    1. Gradient Descent 
    2. Update rule for squared error
    
-  ### Multiveriate Regression : 
+  ### [Multivariate Regression](https://www.youtube.com/watch?v=J_LnPL3Qg70) : 
   
    1. Boston Housing Prices  
    2. Maximum likelihood estimation 
    3. K-fold cross validation 
   
-   ### Task : Air Quality Prediction
-   
+   ### Task : 
+   Submit your code in the Task 3 folder. 
+
+   [Air Quality Prediction](https://www.kaggle.com/chiranjeevbit/air-quality-prediction)
+ 
    
  ## WEEK 4
  
-   ### Introduction to Logistic Regression :
-  https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+   ### I[Introduction to Logistic Regression](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc)
   1. Likelihood estimation and loss 
-  2. Gradient Descent Update Rule 
-        https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
-
- ### Task : Diabetes Classification
- 
+  2. [Gradient Descent Update Rule](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc)
+  
   ### K-Nearest Neighbours : 
  https://medium.com/datadriveninvestor/k-nearest-neighbors-knn-7b4bd0128da7
   1. Introduction 
   2. Implementation using MNIST Handwritten Digits 
+  
+  
+ ### Task : 
+ [Diabetes Prediction](https://www.kaggle.com/uciml/pima-indians-diabetes-database/data)
+
+4.1 Using Logistic Regression
+
+4.2 Using KNN
   
   
  ## WEEK 5
