@@ -129,11 +129,19 @@ Don't be afraid to ask any questions (however irrelevant you think it may be). T
  ## WEEK 5
  
  
- ### Introduction to K-Means Clustering
- 1. implementing E step 
- 2. implementing M step
- 3. Understanding Loss , Coordinate Ascent 
- 4. k-mean ++ Making Better Initialisation
+Introduction to K-Means Clustering
+
+1. [Article/Blog](https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1)
+
+2. [Article](https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/) (A bit long but quite useful)
+ 
+Support Vector Machine
+
+1. [Article](https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72)
+
+2. [Code](analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/)
+
+3. [Lecture](https://www.youtube.com/watch?v=TtKF996oEl8)
  
  ### Task : Extracting Dominant Colours
  
