@@ -30,6 +30,7 @@ Basics of Python:
 
 
 ## TASKS: 
+Submit aleast 40 problems including Hackerrank and CodeChef within 4 days as examples are given below :
 1. [Python If Else](https://www.hackerrank.com/challenges/py-if-else/problem)
 2. [Loop](https://www.hackerrank.com/challenges/python-loops/problem)
 3. [Function](https://www.hackerrank.com/challenges/write-a-function/problem)
