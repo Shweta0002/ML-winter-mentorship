@@ -53,7 +53,7 @@ Don't be afraid to ask any questions (however irrelevant you think it may be). T
       
       - Dictionary
 
-#### Task : Submitting problems on Hackerrank and CodeChef and submit links to your solutions
+#### Task : Submit atleast 40 problems including Hackerrank and CodeChef within 4 days
 
 
 ### WEEK 2
