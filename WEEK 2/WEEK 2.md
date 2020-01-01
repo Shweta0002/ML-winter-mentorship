@@ -2,7 +2,7 @@
 ## 1. NumPy:
   * Video Lecture:
       1. [NumPy Tutorial for Beginners](https://www.youtube.com/watch?v=QUT1VHiLmmI)
-  * [Article and Code]()
+  * [Article and Code](https://github.com/Shweta0002/ML-winter-mentorship/blob/master/WEEK%202/1_Intro%20to%20numpy.ipynb)
   
   
 
@@ -16,11 +16,11 @@
        5. [Pie Charts](https://www.youtube.com/watch?v=Oh2Dkkswy30&list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF&index=6)
        
    * [Blog/Article](https://towardsdatascience.com/matplotlib-tutorial-learn-basics-of-pythons-powerful-plotting-library-b5d1b8f67596)
-   *  [code]()
+   *  [code Example](https://pythonprogramming.net/matplotlib-python-3-basics-tutorial/)
    
    
 ## 3. Pandas:
   * Video Lecture:
       1. [Pandas Tutorial for Beginners](https://www.youtube.com/watch?v=B42n3Pc-N2A)
       
-  * [Article and Code]()
+  * [Article and Code](https://github.com/Shweta0002/ML-winter-mentorship/blob/master/WEEK%202/2_Intro%20to%20pandas.ipynb)
